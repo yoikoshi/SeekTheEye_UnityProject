@@ -1,6 +1,12 @@
 # 「Seek The Eye」  
 WebGL版  
-https://yoikoshi.github.io/Seek-The-Eye でプレイ可能  
+https://yoikoshi.github.io/Seek-The-Eye でプレイ可能
+
+<img width="512" height="288" alt="サムネイル" src="https://github.com/user-attachments/assets/98fcb2e6-54e2-4163-a5fd-03b5d7914d5f" />
+
+
+## プレイ動画（ネタバレあり）：
+https://gyazo.com/625d61c9bd05d56e856e299530402c0a
 
 ## 制作時間：  
 ２〜３ヶ月  
